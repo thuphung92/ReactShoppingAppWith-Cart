@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+* {
+  font-family: 'PT Sans', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.bg-darkblue{
+  background-color: #14213d;
+}
+.bg-yellow{
+  background-color: #fca311
+}
